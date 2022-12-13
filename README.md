@@ -7,7 +7,7 @@ Developed with Unreal Engine 5
 The game that I've made is a basic sandbox shooter based off of Unreal Engine's Third Person game template. The game has a single character controlled by the user, and comes with basic movement controls: walking, turning and jumping. There are also additional controls that allows the user to switch between the default third person perspective to a first person perspective view, and the ability to spawn and launch a projectile in front of the player.  
 The purpose for writing this game comes down to two central ideas: learning the fundamentals of working with Unreal Engine blueprints, and event handling with multiview perspectives.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/m1kuxYooQds)
 
 # Development Environment
 
