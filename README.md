@@ -30,6 +30,6 @@ The purpose for writing this game comes down to two central ideas: learning the 
 
 # Future Work
 
-* Fix explosion visibility to show up whenever
+* Adapt this sandbox logic into a game with a particular objective.
 * Add multi-camera view feed upon projectile spawning.
-* Item 3
+* Add variations in weaponry and projectiles.
